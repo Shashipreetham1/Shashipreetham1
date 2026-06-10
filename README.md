@@ -104,7 +104,7 @@ const shashi = {
 <td width="50%" valign="top">
 
 ### 🏛️ Auditorium Management System
-> Full-stack booking platform — [Live ↗](https://your-live-link](https://audi-management-client.vercel.app/)
+> FFull-stack booking platform — [Live ↗]([https://your-live-link](https://audi-management-client.vercel.app/))
 
 - Real-time scheduling across **4+ venues** with conflict detection
 - **30+ test users**, validated under 5–10 concurrent booking requests
